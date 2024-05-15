@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "802226420225",
+    "project_id": "network-bac93",
+    "storage_bucket": "network-bac93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802226420225:android:d592d87820baaab8b29e00",
+        "android_client_info": {
+          "package_name": "com.network770.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGue-RlEFDY4RU5RBz813pev1N-ELyJlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

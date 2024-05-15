@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Network",
+    "slug": "network",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/logo_1.6_white.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/logo_1.6.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.network770.app",
+      "buildNumber": "2"
+    },
+    "android": {
+      "package": "com.network770.app",
+      "versionCode": 4,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo_1.6.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5978d200-fd61-4c88-aa04-7b835597b81a"
+      }
+    },
+    "owner": "vassardog77"
+  }
+}

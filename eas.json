@@ -1,0 +1,35 @@
+{
+  "build": {
+    "development": {
+      "distribution": "internal",
+      "android": {
+        "buildType": "apk"
+      }
+    },
+    "preview": {
+      "distribution": "internal",
+      "android": {
+        "buildType": "apk"
+      }
+    },
+    "release": {
+      "distribution": "store",
+      "android": {
+        "buildType": "app-bundle"
+      }
+    }
+  },
+  "submit": {
+    "release": {
+      "android": {
+        "serviceAccountKeyPath": "./networktest1-354121-93a6a320fa2e.json",
+        "track": "production"
+      },
+      "ios": {
+        "appleId": "benmoxon256@gmail.com",
+        "appleTeamId": "5GY8N83VRG",
+        "ascAppId": "6467193457"
+      }
+    }
+  }
+}
